@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luigi Barbato</h1>
-<h3 align="center">A Software developer</h3>
+<h3 align="center">About me</h3>
 
 - 🔭 I’m currently working on [Fly-Language](https://github.com/spagnuolocarmine/FLY-language)
 
